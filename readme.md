@@ -32,7 +32,6 @@
 - Polymorphism
 - Abstract Classes
 - Interfaces
-- Events & Delegates
 - Static Classes
 
 ---
